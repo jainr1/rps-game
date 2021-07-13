@@ -30,6 +30,7 @@ src/main/resources/data.sql
 2. Basic auth is using username and password for each player. But it is not checking if user is playing 
 with its own player id and also not restricting access to other player stats.
 3. More integration test
+4. Pagination support for get players api
 ```
 ### Curl request to invoke api's
 ```sh
