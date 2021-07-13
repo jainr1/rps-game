@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.resmed.rpsgame.RpsGameServiceTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-07-13T13:40:49" hostname="NCA1035001" time="0.526">
+  <properties/>
+  <testcase name="testGetStatistics()" classname="com.resmed.rpsgame.RpsGameServiceTest" time="0.526"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

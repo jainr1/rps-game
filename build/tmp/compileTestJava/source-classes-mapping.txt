@@ -1,0 +1,8 @@
+com/resmed/rpsgame/RpsGameServiceTest.java
+ com.resmed.rpsgame.RpsGameServiceTest
+com/resmed/rpsgame/domain/RpsPlayerTest.java
+ com.resmed.rpsgame.domain.RpsPlayerTest
+com/resmed/rpsgame/web/PlayerRestControllerIntegrationTest.java
+ com.resmed.rpsgame.web.PlayerRestControllerIntegrationTest
+com/resmed/rpsgame/domain/ShapeTest.java
+ com.resmed.rpsgame.domain.ShapeTest
